@@ -45,7 +45,7 @@
 
 <img src="https://github.com/zhuweitung/picbed/blob/main/20210419210900.png" style="display:inline-block"/>
 
-5. 手动执行任务，测试配置是否正确；
+5. 手动执行任务，测试配置是正确；
 
 <img src="https://github.com/zhuweitung/picbed/blob/main/20210419211126.png" style="display:inline-block"/>
 
